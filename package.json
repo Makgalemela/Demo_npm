@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "nodemailer": "^6.7.2"
-  }
+  },
+  "name": "matome",
+  "version": "1.0.0",
+  "description": "Demo npm",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Makgalemela/Demo_npm.git"
+  },
+  "keywords": [
+    "Demo"
+  ],
+  "author": "Matome Makgalemela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Makgalemela/Demo_npm/issues"
+  },
+  "homepage": "https://github.com/Makgalemela/Demo_npm#readme"
 }
